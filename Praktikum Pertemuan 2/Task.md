@@ -1,6 +1,3 @@
-**Jobsheet**
-Membuat 2 Tabel Sesuai Studi Kasus Pada Jobsheet Pertemuan 2
-![Screenshot (51)](https://github.com/VeriAbror/learn-phpMyAdmin/assets/160198166/414eef26-101c-4d1b-93be-439f5e78e571)
 
 **Task 1**
 Menyelesaiakan Studi Kasus Task 1
