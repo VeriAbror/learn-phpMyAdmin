@@ -1,4 +1,4 @@
-**Task**
+**Task 1**
 1. Identifikasi Entitas
 2. Identifikasi Atribut
 3. Identifikasi Relasi
