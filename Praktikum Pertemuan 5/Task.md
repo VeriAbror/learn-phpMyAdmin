@@ -1,4 +1,5 @@
 **Soal 2 Kelompok 2**
-<img width="16384" alt="soal 2" src="https://github.com/VeriAbror/learn-phpMyAdmin/assets/160198166/18ffb7e0-bbb4-4c0b-8120-80f90665dc93">
+![Screenshot 2024-03-17 144712](https://github.com/VeriAbror/learn-phpMyAdmin/assets/160198166/b84c9183-a1da-4987-b90e-79c550af32f4)
+
 
 
